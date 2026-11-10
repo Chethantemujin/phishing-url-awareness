@@ -14,6 +14,8 @@ Phishing is a trick where a fake link or message tries to make people share pass
 - "REVIEW CAREFULLY" summary with the number of warnings
 - A plain-language reason shown under each warning
 - Safe handling of malformed input (no crashes)
+## Live link
+https://chethantemujin.github.io/phishing-url-awareness/
 
 ## Requirements
 Python 3.10 or later. No extra packages.
