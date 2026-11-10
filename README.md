@@ -71,4 +71,4 @@ Use sample strings only. Do not collect credentials. Do not use this
 project to deceive anyone or to test websites without permission.
 
 ## Author
-Chethan Kumar B, CSE - IoT and Cyber Security including Blockchain Technology, Maharaja Institute of Technology Mysore, EWB Courses
+Chethan Kumar B, CSE - IoT and Cyber Security including Blockchain Technology, Maharaja Institute of Technology Mysore
