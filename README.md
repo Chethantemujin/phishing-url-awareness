@@ -1,4 +1,4 @@
-# EWB Phishing URL Awareness Checker
+# Phishing URL Awareness Checker
 
 ## Overview
 Phishing is a trick where a fake link or message tries to make people share passwords, card numbers or OTPs. This command-line tool reads a URL as plain text and points out a few visible warning signs. It never opens the link, so it is safe to use for learning.
